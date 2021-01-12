@@ -1,5 +1,5 @@
 # Place Picker Using Google Places
-An easy to use fully custmizable place picker that is inspired by Google 
+An easy to use fully customizable place picker that is inspired by Google 
 
 
 ![](images/address_search.gif)
